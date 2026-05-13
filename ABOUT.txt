@@ -1,1 +1,1 @@
-This file contains information about the project.
+This file contains information about the project and this is apractice for handling conflicts.
