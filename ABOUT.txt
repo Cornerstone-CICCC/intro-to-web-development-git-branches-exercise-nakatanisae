@@ -1,1 +1,2 @@
-This file contains information about the project.
+This file contains information about the project part2.
+This is in the repository of feature-update-about.
